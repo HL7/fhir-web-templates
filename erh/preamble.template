@@ -1,0 +1,50 @@
+<body>
+<div id="segment-header" class="segment">  <!-- segment-header -->
+  <table class="none" style="text-align:center;">
+    <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td style="text-align:left;"><a id="logo" no-external="true" href="http://hl7.org/cda"><img alt="logo cda" height="50px" width="197px" src="https://hl7.org/fhir/assets-hist/images/cda_both_trans.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td><div id="ig-status" style="font-size:24px;padding-top: 10px;"><b id="ig-title">CDA: Clinical Document Architecture</b></div></td>
+     <td style="text-align:right;">&nbsp;&nbsp;&nbsp;&nbsp;<a id="hl7-logo" no-external="true" href="http://www.hl7.org"><img alt="visit the hl7 website" src="https://hl7.org/fhir/assets-hist/images/hl7-logo.png"></a></td>
+    </tr>
+  </table>
+ </div>  <!-- /segment-header -->
+ 
+ <div id="segment-navbar" class="segment">  <!-- segment-navbar -->
+  <div id="stripe"> </div>
+  <div class="container">  <!-- container -->
+   <!-- HEADER CONTENT -->
+
+   <nav class="navbar navbar-inverse">
+    <div class="container">
+     <button data-target=".navbar-inverse-collapse" class="navbar-toggle" data-toggle="collapse" type="button">
+      <span class="icon-bar"> </span>
+      <span class="icon-bar"> </span>
+      <span class="icon-bar"> </span>
+     </button>
+     <a class="navbar-brand hidden" href="http://hl7.org/fhir/index.html">CDA</a>
+     <div class="nav-collapse collapse navbar-inverse-collapse">
+      <ul class="nav navbar-nav">
+              <li><a href="history.html">History</a></li>
+            </ul>
+
+     </div>  <!-- /.nav-collapse -->
+    </div>  <!-- /.container -->
+   </nav>  <!-- /.navbar -->
+
+  <!-- /HEADER CONTENT -->
+  </div>  <!-- /container -->
+ </div>  <!-- /segment-navbar -->
+
+
+
+  <!-- ============BreadCrumb=============== -->
+
+  </div>  <!-- /container -->
+ </div>  <!-- /segment-breadcrumb -->
+
+ <div id="segment-content" class="segment">  <!-- segment-content -->
+ <div class="container">  <!-- container -->
+            <div class="row">
+             <div class="inner-wrapper">
+
